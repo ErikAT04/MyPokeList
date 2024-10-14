@@ -1,0 +1,12 @@
+[
+  {"id":1,"region":"kanto","firstPoke":1, "lastPoke":151},
+  {"id":2,"region":"johto","firstPoke":152,"lastPoke":251},
+  {"id": 3, "region":"hoenn","firstPoke":252,"lastPoke":386},
+  {"id": 4, "region": "sinnoh", "firstPoke":387, "lastPoke":493},
+  {"id": 5, "region": "unova", "firstPoke":494, "lastPoke":649},
+  {"id": 6, "region": "kalos", "firstPoke":650, "lastPoke":721},
+  {"id": 7, "region": "alola", "firstPoke":722, "lastPoke":809},
+  {"id": 8, "region": "galar", "firstPoke":810, "lastPoke":898},
+  {"id": 9, "region": "hisui", "firstPoke":899, "lastPoke":905},
+  {"id": 10, "region": "paldea", "firstPoke":906, "lastPoke":1025}
+]
